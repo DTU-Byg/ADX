@@ -34,4 +34,3 @@ According DGNB 2020 manual it is important to have at least 2 hours of direct su
 4. Make sure that the model units is in milimeters - or scale the different parameters to obtain a resonable grid and fondsize.
 5. Click the red marked Toggle to True and run the simulation.
 6. The results will be shown as a colourplot on the windows both in Rhino and Revit with a color ledgend from 0 to >5 hours which corresponds both to the DGNB 16 and 20 manual
-7. 
