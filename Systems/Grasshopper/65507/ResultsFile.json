@@ -1,5 +1,6 @@
 {
     "GroupNo": "Team 3", 
-    "TypeOfAnalysis": "Scriptv", 
-    "Result": "9hours"
+    "TypeOfAnalysis": "Scriptv51", 
+    "Result": "9hours", 
+    "Message": "Your geometry resulted in a good performance in amount of sunlight, your examination resulted in a mean value of 8.95"
 }
