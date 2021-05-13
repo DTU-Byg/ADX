@@ -1,3 +1,8 @@
+----------------------------[Honeybee Zones to analysis scripts]----------------------------
+
+Created by: Sebastian Dændler Hougaard, Stine Boe Gad ,Hadas Geva
+Technical University of Denmark in Spring 2021 for the course Agile Building Design
+
 # Analysis
 Introduction 
 
