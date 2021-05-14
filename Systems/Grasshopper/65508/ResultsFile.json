@@ -1,6 +1,6 @@
 {
     "GroupNo": "Team 4", 
-    "TypeOfAnalysis": "Scriptv51", 
-    "Result": "9hours", 
-    "Message": "Your geometry resulted in a good performance in amount of sunlight, your examination resulted in a mean value of 8.95"
+    "TypeOfAnalysis": "Scriptv54_5stjerner", 
+    "Result": "hours", 
+    "Message": "An error occured in your analysis. Please check your input geometry for errors.\r\n\r\nTrouble shooting:\r\n1) Control if your file consists of correct geometries.\r\n2) Control if you have specified a correct layer definiton. Context geometry in layer #1 and examination geometry in layer #2.\r\n\r\nWhen the above mentioned trouble shooting points are controlled, please re-send file for examination."
 }
