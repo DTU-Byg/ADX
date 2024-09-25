@@ -1,5 +1,7 @@
 # Systems
 
+Overview of the systems for the course.
+
 ## Agile Message Service
 ![AgileMessageService](AgileMessageService.svg)
 
